@@ -5,8 +5,10 @@ Este conjungo de datos contiene información detallada sobre las ventas de la ti
 Estos datos son relevantes para comprender las ventas y las ganacias que tuvo la tienda durante el periodo de años del 2020 al 2023. 
 
 ## Contexto 
-En el dashboard se incluyeron dos tarjetas para visualizar de
-manera rápida y sencilla el total de ventas y el total de órdenes. También se
-agregaron visualizaciones de línea para identificar fácilmente patrones en las
-ventas por mes. Finalmente agregué una hoja de detalle por "Cliente", en
-caso de que el cliente necesite saber quiénes son sus mejores compradores.
+El presente Documento de PowerBI presenta tres pestañas con diversas visualizaciones de datos que contribuyen a el presente análisis. El primer dashboard bajo el nombre de "General" presenta tres tarjetas para visualizar de manera rápida y sencilla el total de Ordenes de ventas, Total de clientes, y la suma total de ventas del periodo de años 2020 al 2023. También se agregaron visualizacione de mapa coroplético con la finalidad de identificar que categoria de producto se vendida más por estado y cuanto ingreso total de ventas se genero. De  igual forma se incluye un gráfico de área en el cual se visualiza el segmento del cliente y el total de ventas que genero por año. 
+
+Al dashboard "General" se agregaron 3 filtros; por categoría, tipo de cliente haciendo referencia al segmento de cliente y el país con la finalidad de visualizar datos más concretos sobre datos de interes, con la finalidad de hacerlo más dinamico y fácil de detectar y determinar en que país y estado se generon la mayor cantidad de ganacias en ventas y que segmento de clientes son los que más deciden comprar. 
+
+El siguiente dashboard "Categoría y Subcategoría"  tiene la finalidad de detectar mediante gráficos de barras las categorías y subcategorías que generen mayores ventas para la empresa y cuales no generan una gran flujo de ventas. Por medio de treemap se gráfico la región y el segmento de clientes con la finalida de determinar cuantos clientes por segmentos tenia cada región. Este dashboard también incluye dos tipos de filtor, el de tipo de cliente referente a el segmento de clientes y el país. 
+
+El último dashboard esta oculto para obtener más detalles de alguna cuestion en particular que le interese al cliente ya que contiene datos confidenciales exclusivos para la empresa. En este dashboard se podra observar el ID del cliente, el nombre del cliente, el total de ingreso generado por dicho cliente y en que año, el país y estado en donde se realizaron las ventas, el ID del producto, nombre del producto y categoria a la que pertenece y que segmento de cliente pertenece. Esto con la finalidad de obtener datos especificos de ciertas cuesstiones de interese de los datos presentados y analizados en los dashboard anteriormente mencionados, esto con la finalidad de obtener datos más concretos, con los que se podrían tomar desisiones de estrategia de fidelizacion, promocion de productos y determinar la zonas donde se obtienen mayores ventas. 
